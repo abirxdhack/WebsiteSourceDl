@@ -61,7 +61,7 @@ Stay updated with our channels:
     pip install -r requirements.txt
     ```
 
-3. **Create a `config.py` file**:
+3. **Edit The  `config.py` file**:
     ```python
     API_ID = "your_api_id"
     API_HASH = "your_api_hash"
@@ -70,6 +70,6 @@ Stay updated with our channels:
 
 4. **Run the bot**:
     ```sh
-    python web_source_downloader_bot.py
+    python main.py
     ```
 
