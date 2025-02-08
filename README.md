@@ -1,6 +1,6 @@
 # 🌐 Web Source Downloader Bot 🤖
 
-[![Pyrogram](https://img.shields.io/badge/Pyrogram-v1.4.16-blue)](https://docs.pyrogram.org/)
+[![Pyrogram](https://img.shields.io/badge/Pyrogram-v2blue)](https://docs.pyrogram.org/)
 [![Python](https://img.shields.io/badge/Python-3.9+-brightgreen)](https://www.python.org/downloads/release/python-390/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/abirxdhack/WebsiteSourceDl?style=social)](https://github.com/abirxdhack/WebsiteSourceDl/stargazers)
