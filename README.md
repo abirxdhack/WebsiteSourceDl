@@ -56,20 +56,31 @@ Stay updated with our channels:
     cd WebsiteSourceDl
     ```
 
-2. **Install the required packages**:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. **Edit The  `config.py` file**:
+2. **Edit The `config.py` file**:
     ```python
     API_ID = "your_api_id"
     API_HASH = "your_api_hash"
     BOT_TOKEN = "your_bot_token"
     ```
 
-4. **Run the bot**:
+3. **Run the bot**:
     ```sh
     python main.py
     ```
+
+## Configuration
+
+1. Open the `config.py` file in your favorite text editor.
+2. Replace the placeholders for `API_ID`, `API_HASH`, `ADMIN_IDS`, `DEFAULT_LIMIT`, `ADMIN_LIMIT`, and `BOT_TOKEN` with your actual values:
+   - **`API_ID`**: Your API ID from [my.telegram.org](https://my.telegram.org).
+   - **`API_HASH`**: Your API Hash from [my.telegram.org](https://my.telegram.org).
+   - **`BOT_TOKEN`**: The token you obtained from [@BotFather](https://t.me/BotFather).
+
+## Deploy the Bot
+
+```sh
+git clone https://github.com/abirxdhack/WebsiteSourceDl
+cd WebsiteSourceDl
+python main.py
+```
 
