@@ -1,0 +1,5 @@
+API_ID = 26512884 
+API_HASH = "c3f491cd59af263cfc249d3f93342ef8"
+BOT_TOKEN = "8072349020:AAFpPnJJFw5F6KMCCbDoaFHCPlZpU3L9Ki0"
+COMMAND_PREFIX = [",", ".", "/", " #", "!"]
+UPDATES_CHANNEL_URL = "https://t.me/abirxdhackz"
