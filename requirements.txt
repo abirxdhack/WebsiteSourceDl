@@ -1,0 +1,9 @@
+pyrofork
+tgcrypto
+aiohttp
+aiofiles
+asyncio
+brotli
+zstandard
+beautifulsoup4
+lxml
