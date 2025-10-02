@@ -1,3 +1,5 @@
+#Copyright @ISmartCoder (c) 2025
+#Updates Channel t.me/abirxdhackz
 import os
 import re
 import asyncio
